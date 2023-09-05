@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Qa3cAV0vcrjy5dcL7d0dGmu5eQi4m3xBNce/EKKhhSKbuvLs5KrPHogQ8QgLTLBovxYup4rXVFC5S8JzPtiMw==",
+  "success": true,
+  "projectFilePath": "E:\\ПЛОХОЕ ХОББИ ДЛЯ ПЛОХИХ ЛЮДЕЙ\\PDuration\\PDuration\\PDuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soren\\.nuget\\packages\\google.apis\\1.62.0\\google.apis.1.62.0.nupkg.sha512",
+    "C:\\Users\\soren\\.nuget\\packages\\google.apis.auth\\1.62.0\\google.apis.auth.1.62.0.nupkg.sha512",
+    "C:\\Users\\soren\\.nuget\\packages\\google.apis.core\\1.62.0\\google.apis.core.1.62.0.nupkg.sha512",
+    "C:\\Users\\soren\\.nuget\\packages\\google.apis.youtube.v3\\1.62.0.3155\\google.apis.youtube.v3.1.62.0.3155.nupkg.sha512",
+    "C:\\Users\\soren\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
